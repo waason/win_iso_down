@@ -13,7 +13,7 @@ ref:https://github.com/mrrobot1o1/OS-Downloads
 | Windows 7 Professinal  | [Download](https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso) | [Download](https://cdn.as212934.net/windows/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso) |     ❌      |
 | Windows 8.1            |                                                                                     None                                                                                      |                             [Download](https://cdn.as212934.net/windows/Win8.1_English_x64.iso)                             |     ❌      |
 | Windows 10             |                                                   [Download](https://cdn.as212934.net/windows/Win10_22H2_English_x32v1.iso)                                                   |                          [Download](https://cdn.as212934.net/windows/Win10_22H2_English_x64v1.iso)                          |     ❌      |
-| Windows 10 22H2日文    |                                                  [Wndows10](https://drive.google.com/file/d/1ux6gJPIWMlT9uQgXPtj9t6WA8a19GWb9/view?usp=share_link)                                                   |                          [Download](0)                          |     ❌      |
+| Windows 10 22H2日文    |                                                  [Download](https://drive.google.com/file/d/1ux6gJPIWMlT9uQgXPtj9t6WA8a19GWb9/view?usp=share_link)                                                   |                          [Download](https://drive.google.com/file/d/1ux6gJPIWMlT9uQgXPtj9t6WA8a19GWb9/view?usp=share_link)                          |     ❌      |
 | Windows 11 23H2        |                                                                                     None                                                                                      |                          [Download](https://cdn.as212934.net/windows/Win11_23H2_English_x64v2.iso)                          |     ❌      |
 | Windows 10 LTSC                   |                       [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x86FRE_en-us.iso)                       |                       [Download](https://software-download.microsoft.com/download/sg/17763.107.101029-1455.rs5_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso)                        |      ✅      |
 | Windows 10 Enterprise             |                 [Download](https://software-download.microsoft.com/download/sg/19043.928.210409-1212.21h1_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x86FRE_en-us.iso)                 |                 [Download](https://software-download.microsoft.com/download/sg/19043.928.210409-1212.21h1_release_svc_refresh_CLIENTENTERPRISEEVAL_OEMRET_x64FRE_en-us.iso)                  |       ✅     |
@@ -30,14 +30,6 @@ ref:https://github.com/mrrobot1o1/OS-Downloads
 | Windows Server 2012               |                                                                                            None                                                                                             |     [Download](http://download.microsoft.com/download/6/D/A/6DAB58BA-F939-451D-9101-7DE07DC09C03/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_EN-US-HRM_SSS_X64FREE_EN-US_DV5.ISO)     |       ✅     |
 | Hyper-V Server 2012               |                                                                                            None                                                                                             |   [Download](http://download.microsoft.com/download/3/4/7/347A95F0-A63C-492F-BE43-F376AE30C9FE/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVERHYPERCORE_EN-US-HRM_SHV_X64FRE_EN-US_DV5.ISO)    |      ✅      |
 
-
-windows 10 iso file
-
-Download
-
-[Wndows10](https://drive.google.com/file/d/1ux6gJPIWMlT9uQgXPtj9t6WA8a19GWb9/view?usp=share_link)
-
-ISO version is 22H2
 
 ## Linux
 
